@@ -14,7 +14,7 @@ This repository contains hands-on practice tasks for **ASP.NET Core Web API**, b
 - HTTP methods (GET, POST, PUT, DELETE)
 
 ## 🛠 Technologies Used
-- ASP.NET Core  
+- ASP.NET Core   
 - C#  
 - SQL Server  
 - ADO.NET  
